@@ -7,8 +7,7 @@ Este é um projeto básico que utiliza Streamlit para visualizar dados do FIFA. 
 ## Como executar o projeto
 
 1. Clone este repositório.
-2. Instale as dependências necessárias usando o comando `pip install -r requirements.txt`.
-3. Execute o aplicativo Streamlit usando o comando `streamlit run app.py`.
+2. Execute o aplicativo Streamlit usando o comando `streamlit run app.py`.
 
 ## Funcionalidades
 
